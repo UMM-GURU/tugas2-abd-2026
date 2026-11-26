@@ -1,8 +1,8 @@
 ---
-title: Dashboard Analitik Big Data
-emoji: 📊
+title: Wind City - Chicago Crime Intelligence
+emoji: 🚨
 colorFrom: blue
-colorTo: green
+colorTo: red
 sdk: docker
 app_port: 8501
 pinned: false
@@ -84,9 +84,9 @@ Identitas lengkap (nama, NIM, akun GitHub) dicantumkan di [`identitas.md`](ident
 
 | No | Nama | Peran / Kontribusi Utama |
 |:--:|------|--------------------------|
-| 1 | [Nama Mahasiswa 1] | Lead Architect / Data Pipeline |
-| 2 | [Nama Mahasiswa 2] | Backend Query / DuckDB Engine |
-| 3 | [Nama Mahasiswa 3] | Frontend Streamlit / Visualisasi |
+| 1 | Tricahyo Diqolbu | Lead Architect / Data Engineer & DevOps Lead |
+| 2 | M. Rayhan Shaffarukhan Alkamaly | Analytics, Query & UI Engineer |
+
 
 ---
 
